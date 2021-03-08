@@ -1,6 +1,6 @@
 # github_actions
 
-A new Flutter project.
+This is checking out github actions with a new Flutter project.
 
 ## Getting Started
 
